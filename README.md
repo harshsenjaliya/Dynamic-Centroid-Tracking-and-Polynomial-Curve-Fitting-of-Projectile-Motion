@@ -45,5 +45,5 @@ The trajectory of the centroid is then fitted using a polynomial curve for visua
 
 ## Output Results
 Below are the output results visualizing the centroid detection and the trajectory fitting:
-(path/to/Centroid pf Obj..png)
-(curve Traj. Plot.png)
+(Curve Traj. Plot.png)
+()
