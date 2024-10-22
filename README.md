@@ -41,7 +41,8 @@ The trajectory of the centroid is then fitted using a polynomial curve for visua
 2. **Centroid Detection:** For each frame, the image is converted to grayscale, and pixel values below a certain threshold are identified to locate the object. The centroid is calculated based on the coordinates of the detected pixels.
 3. **Polynomial Curve Fitting:** The detected centroid coordinates are fitted with a polynomial curve to analyze the trajectory over time.
 
-## Output Visualization After running the script, a plot is generated displaying the detected centroid points and the fitted polynomial curve. The x-axis represents the horizontal pixel coordinates, while the y-axis represents the vertical pixel coordinates of the centroid.
+## Output Visualization 
+After running the script, a plot is generated displaying the detected centroid points and the fitted polynomial curve. The x-axis represents the horizontal pixel coordinates, while the y-axis represents the vertical pixel coordinates of the centroid.
 
 -```python plt.scatter(val_dark[:, 0], val_dark[:, 1], c='g', marker='o') plt.plot(data_x, fitted_y) plt.xlabel('X') plt.ylabel('Y') plt.title('Centroid of the object') plt.gca().invert_yaxis() plt.show() ```
 
