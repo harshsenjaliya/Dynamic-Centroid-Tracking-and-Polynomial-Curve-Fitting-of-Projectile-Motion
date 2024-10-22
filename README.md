@@ -45,5 +45,6 @@ The trajectory of the centroid is then fitted using a polynomial curve for visua
 
 ## Output Results
 Below are the output results visualizing the centroid detection and the trajectory fitting:
-![Description of Image 1](https://github.com/harshsenjaliya/Dynamic-Centroid-Tracking-and-Polynomial-Curve-Fitting-of-Projectile-Motion/blob/main/Curve%20Traj.%20Plot.png)
-![Description of Image 2](path/to/Curve_Traj._Plot.png)
+![Curve Trajectory Plot](https://github.com/harshsenjaliya/Dynamic-Centroid-Tracking-and-Polynomial-Curve-Fitting-of-Projectile-Motion/blob/main/Curve%20Traj.%20Plot.png)
+
+![Centroid of the Object](https://github.com/harshsenjaliya/Dynamic-Centroid-Tracking-and-Polynomial-Curve-Fitting-of-Projectile-Motion/blob/main/Centroid%20pf%20Obj..png)
